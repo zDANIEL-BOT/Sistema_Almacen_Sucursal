@@ -1,0 +1,6 @@
+@Sistema_Almacen_Sucursal_HostAddress = http://localhost:5186
+
+GET {{Sistema_Almacen_Sucursal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
